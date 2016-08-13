@@ -1,0 +1,29 @@
+{
+  "name": "spotify-control",
+  "version": "0.1.0",
+  "description": "Control a Spotify client running on the localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windsdon/spotify-control.git"
+  },
+  "keywords": [
+    "spotify",
+    "remote",
+    "control"
+  ],
+  "author": "Windsdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windsdon/spotify-control/issues"
+  },
+  "homepage": "https://github.com/windsdon/spotify-control#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "extend": "^3.0.0",
+    "request": "^2.74.0"
+  }
+}
